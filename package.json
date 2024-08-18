@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Learning Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc",
+    "watch": "tsc -w",
+    "start": "node index.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ysrilatha0308/Typescript-learning"
+  },
+  "author": "Srilatha",
+  "license": "ISC"
+}
